@@ -16,6 +16,15 @@ A multiplayer mini-game concept for GenLayer community sessions (5–15 min roun
 - `docs/game-rules.md` – simple rules
 - `docs/troubleshooting.md` – common issues
 
+## Run demo locally
+After installing Python 3.10+:
+
+```bash
+python run_demo.py
+```
+
+You should see a sample XP leaderboard printed in terminal.
+
 ## Author
 GitHub: hazel81090-star
 Wallet: 0xdf5b716a7f85f6249de76EfD5779aA93baFf833c
