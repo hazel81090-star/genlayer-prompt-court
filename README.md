@@ -25,6 +25,16 @@ python run_demo.py
 
 You should see a sample XP leaderboard printed in terminal.
 
+## Play it locally (interactive)
+```bash
+python play_cli.py
+```
+
+Then:
+1. Enter player names (comma-separated)
+2. Answer one random prompt per player
+3. View leaderboard output
+
 ## Author
 GitHub: hazel81090-star
 Wallet: 0xdf5b716a7f85f6249de76EfD5779aA93baFf833c
